@@ -14,4 +14,11 @@ meteor-helper
 minimap
 pigments
 
-Provant Atom.
+Paquets Metero Instal·lats:
+bootstrap
+Underscore (Cal?? no se k fa).
+msavin:mongol
+aldeed:autoform
+aldeed:collection2
+iron:router
+
